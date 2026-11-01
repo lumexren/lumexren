@@ -11,6 +11,12 @@
 
 ---
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lumexren/lumexren/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+---
+
 ### 🚀 Latest Releases
 - [**1.0.1**](https://github.com/lumexren/zig-waybar-contrib/releases/tag/1.0.1) on [lumexren/zig-waybar-contrib](https://github.com/lumexren/zig-waybar-contrib)
 - [**2.0.1**](https://github.com/lumexren/plume/releases/tag/2.0.1) on [lumexren/plume](https://github.com/lumexren/plume)
